@@ -23,11 +23,12 @@ Engineering and learning to build backend and web applications.
 ## 📁 Projects
 - [**pin-extractor**](https://github.com/SadewChamika/pin-extractor): extracts a numeric PIN from poems using word lengths
 - [**caesar-cipher**](https://github.com/SadewChamika/caesar-cipher): encrypts and decrypts text with the Caesar cipher
+- [**medical-data-validator**](https://github.com/SadewChamika/medical-data-validator): validates patient medical records, checking the structure and the format of every field
 
 More coming as I learn. 🚀
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/sadew-chamika
+- LinkedIn: [www.linkedin.com/in/sadew-chamika](https://www.linkedin.com/in/sadew-chamika)
 
 - Email: sadewchamika135@gmail.com
 
